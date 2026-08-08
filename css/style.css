@@ -716,3 +716,12 @@ footer {
   align-items: center;
 }
 .footer-socials a:hover { color: var(--accent); }
+
+/* In-progress marker on project cards */
+.project-status {
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: var(--accent);
+  letter-spacing: 0;
+  white-space: nowrap;
+}
